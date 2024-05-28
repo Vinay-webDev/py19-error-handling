@@ -1,4 +1,4 @@
-"""numbers = []
+numbers = []
 total = 0
 count = 0
 
@@ -28,4 +28,4 @@ if count > 0:
     print("Maximum:", maximum)
     print("Minimum:", minimum)
 else:
-    print("No valid numbers entered.") """
+    print("No valid numbers entered.") 
